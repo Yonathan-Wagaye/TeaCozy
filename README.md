@@ -2,7 +2,7 @@
 
 This project is a single static page for a fictional tea shop called "The Tea Cozy." The page is designed using HTML and CSS.
 
-![The Tea Cozy Layout](docuementation/img-tea-cozy-redline.jpg)
+![The Tea Cozy Layout](./docuementation/img-tea-cozy-redline.jpg)
 
 ## Features
 
